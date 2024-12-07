@@ -1,0 +1,12 @@
+player > item sağ tıkla design table bas
+
+window üzerine gel ve values yanındaki 3 noktaya bas
+
+açılan pencereye 
+
+UPGRADE_INVENTORY
+BOOK_INVENTORY
+STONE_INVENTORY
+CHEST_INVENTORY 
+
+ekle ve kaydet

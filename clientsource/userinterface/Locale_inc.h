@@ -1,0 +1,1 @@
+#define ENABLE_SPECIAL_STORAGE								// Special Inventory (Materiales, Book, Stones, Chest)
